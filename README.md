@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Spring, Git, Lombok
+
 <!--
 **GabyGtz91/GabyGtz91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
